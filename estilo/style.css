@@ -94,12 +94,12 @@ main{
 main h1{
     color: var(--cor5);
     font-family: var(--fonte-android);
-
+    
 }
 main h2{
 font-family: var(--fonte-android) ;
 color: var(--cor4);
-font-size: 1.3em;
+font-size: 0.8em;
 background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
 }
@@ -107,8 +107,9 @@ main p{
     margin:15px 0px;
     text-align: justify;
     text-indent: 30px;
-    font-size: 1em;
+    font-size: 0.8em;
     line-height: 2em;
+    font-weight: bold;
 
 }
 main strong{
@@ -156,11 +157,12 @@ aside{
     border-radius: 10px;
 }
 aside > ul{
-    list-style-type: '\2714\00A0\00A0tesouria';
+    list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
-    columns: 2;
+    columns: 1;
 
 }
+
 footer{
     background-color: var(--cor5);
     color: white;
