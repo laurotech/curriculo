@@ -96,6 +96,7 @@ main h1{
     color: black;
     font-family: var(--fonte-android);
     background-image: linear-gradient(to right, var(--cor1), transparent);
+    font-size: 1.2em;
 }
 main h2{
 font-family: var(--fonte-android) ;
