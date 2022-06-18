@@ -18,7 +18,7 @@
     --cor1: #6A82E1;
     --cor2: #2146DB;
     --cor3: #1936A8;
-    --cor4: #1F2B5C;
+    --cor4: #1f2b5ccb;
     --cor5: #0E1D5C;
 
     --fonte-padrao:Arial, Verdana, Helvetica, sans-serif;
@@ -96,15 +96,20 @@ main{
 
 }
 main h1{
-    color: black;
-    font-family: var(--fonte-android);
-    background-image: linear-gradient(to right, var(--cor1), transparent);
-    font-size: 1.1em;
+    color: rgb(238, 234, 241);
+    background-color: var(--cor4);
+    font-size: 1.5em;
 }
 main h2{
-font-family: var(--fonte-android) ;
-color: var(--cor4);
+color: rgb(241, 236, 245);
 font-size: 1.0em;
+background-image: linear-gradient(to right, var(--cor1), transparent);
+text-indent: 8px;
+font-weight: bold;
+}
+main h3{
+color: rgb(12, 1, 24);
+font-size: 1.3em;
 background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
 font-weight: bold;
