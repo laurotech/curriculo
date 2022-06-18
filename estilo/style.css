@@ -101,7 +101,7 @@ main h1{
     font-size: 1.5em;
 }
 main h2{
-color: rgb(241, 236, 245);
+color: rgb(11, 2, 19);
 font-size: 1.0em;
 background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
