@@ -98,18 +98,18 @@ main{
 main h1{
     color: rgb(238, 234, 241);
     background-color: var(--cor4);
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 main h2{
 color: rgb(11, 2, 19);
-font-size: 1.0em;
+font-size: 0.90em;
 background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
 font-weight: bold;
 }
 main h3{
 color: rgb(12, 1, 24);
-font-size: 1.3em;
+font-size: 1.0em;
 background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
 font-weight: bold;
