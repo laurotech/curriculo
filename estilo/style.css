@@ -127,7 +127,7 @@ font-weight: bold;
 }
 main h5{
     color: rgb(123, 10, 243);
-    font-size: 5.0em;
+    font-size: 4.5em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 10px;
     font-weight: bold;
