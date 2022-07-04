@@ -66,23 +66,7 @@ nav{
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 192);
     text-align: left;
-}/*
-    nav >a{
-        color:white;
-        padding: 10px;
-        border-radius: 5px;
-        text-decoration:none;
-        font-weight: bold;
-        transition-duration:2s ;
-        
-    }
-nav > a:hover{
-    background-color: var(--cor3);
-    color: var(--cor5);
-   
-
-}*/
-
+}
 
 nav >a{
     color:white;
@@ -141,6 +125,15 @@ background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
 font-weight: bold;
 }
+main h5{
+    color: rgb(123, 10, 243);
+    font-size: 5.0em;
+    background-image: linear-gradient(to right, var(--cor1), transparent);
+    text-indent: 10px;
+    font-weight: bold;
+    text-align: center;
+    
+    }
 main p{
     margin:15px 0px;
     text-align: justify;
