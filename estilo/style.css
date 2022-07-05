@@ -125,9 +125,9 @@ background-image: linear-gradient(to right, var(--cor1), transparent);
 text-indent: 8px;
 font-weight: bold;
 }
-main h5{
+main h6{
     color: rgba(123, 10, 243, 0.568);
-    font-size: 4.5em;
+    font-size: 3.5em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 10px;
     font-weight: bold;
